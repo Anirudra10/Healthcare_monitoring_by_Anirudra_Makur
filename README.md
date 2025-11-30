@@ -25,3 +25,23 @@ Predictive Analysis using Python (Random Forest Classifier).
 
 Interactive Dashboards in Power BI hosted on SharePoint.
 
+#🚀 Setup Instructions
+1. Import PowerApps App
+
+Go to Power Apps → Solutions → Import.
+Upload AppPackage.zip.
+
+2. Configure SharePoint
+
+Create a SharePoint site.
+Import SharePointSchema.xml or manually create the list with columns:
+
+PatientName, PatientID, Gender, BloodPressure, SugarLevel, OxygenSaturation, PredictionResult, DoctorEmail.
+
+
+
+3. Power Automate Flow
+
+Create a flow with SharePoint trigger and Email action.
+Configure to send alerts when new patient data is added.
+
