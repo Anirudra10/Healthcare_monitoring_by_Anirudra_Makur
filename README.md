@@ -1,7 +1,6 @@
 # Healthcare_monitoring_by_Anirudra_Makur
-**This project demonstrates an integrated healthcare monitoring solution using Microsoft Power Platform, SharePoint, Power BI, and AI (Google Colab)**
 
-📌 Overview
+**📌 Overview**
 This project demonstrates an integrated healthcare monitoring solution using Microsoft Power Platform, SharePoint, Power BI, and AI (Google Colab). It enables predictive healthcare monitoring by collecting patient data, analyzing health metrics, and triggering alerts for critical conditions.
 The solution includes:
 
