@@ -46,3 +46,48 @@ PatientName, PatientID, Gender, BloodPressure, SugarLevel, OxygenSaturation, Pre
 Create a flow with SharePoint trigger and Email action.
 Configure to send alerts when new patient data is added.
 
+4. AI Model
+
+Open Health.ipynb in Google Colab.
+
+Install dependencies:
+
+Pythonpip install pandas scikit-learn joblib
+
+Train the model and export predictions to Excel.
+
+5. Power BI Dashboard
+
+Open Dashboard.pbix in Power BI Desktop.
+Connect to SharePoint list.
+Publish to SharePoint site for real-time visualization.
+
+**📊 Dashboard Highlights**
+
+Patient count and gender distribution.
+Average health metrics (BP, Sugar, Oxygen).
+Prediction results (Critical, Moderate, Good).
+Interactive charts and Q&A insights.
+
+**🔍 Architecture**
+
+Frontend: PowerApps
+Backend: SharePoint Lists
+Automation: Power Automate
+Analytics: Power BI
+AI: Google Colab (Python, Random Forest)
+
+
+**✅ Requirements**
+
+Microsoft 365 account with Power Platform access.
+SharePoint Online.
+Power BI Desktop.
+Google Colab or Jupyter Notebook.
+
+
+**📖 References**
+
+Optimized Hospital Management System with Analytics
+AI in Healthcare Systems
+
