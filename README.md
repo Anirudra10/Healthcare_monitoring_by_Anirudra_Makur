@@ -12,3 +12,16 @@ The solution includes:
 4.Power BI dashboards for real-time analytics.
 
 5.AI Model built in Google Colab for predictive analysis.
+
+🛠 Features
+
+Patient Data Entry via PowerApps.
+
+SharePoint Lists for structured data storage.
+
+Automated Alerts using Power Automate.
+
+Predictive Analysis using Python (Random Forest Classifier).
+
+Interactive Dashboards in Power BI hosted on SharePoint.
+
