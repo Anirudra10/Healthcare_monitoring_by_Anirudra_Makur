@@ -13,7 +13,7 @@ The solution includes:
 
 5.AI Model built in Google Colab for predictive analysis.
 
-🛠 Features
+**🛠 Features**
 
 Patient Data Entry via PowerApps.
 
@@ -25,7 +25,8 @@ Predictive Analysis using Python (Random Forest Classifier).
 
 Interactive Dashboards in Power BI hosted on SharePoint.
 
-#🚀 Setup Instructions
+**🚀 Setup Instructions**
+
 1. Import PowerApps App
 
 Go to Power Apps → Solutions → Import.
